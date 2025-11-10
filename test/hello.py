@@ -274,3 +274,9 @@ x = random.randint(1, 100)
 is_even = (x%2) == 0
 print(x)
 print(is_even)
+
+
+
+
+
+
