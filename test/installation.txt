@@ -1,3 +1,7 @@
 python -m venv .venv
 .venv/Scripts/activate
 pip install -r requirements.txt
+ 
+# Git setup - after installation of Git
+git config -- global user.name  "Nicolas Mertes"
+git config -- global user.email "Nicolas.Mertes@gmx.de"
