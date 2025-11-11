@@ -275,8 +275,4 @@ is_even = (x%2) == 0
 print(x)
 print(is_even)
 
-
-
-
-
-
+# This is a comment
